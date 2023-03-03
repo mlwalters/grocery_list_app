@@ -1,0 +1,20 @@
+[
+  {
+    "itemName": "diced tomatoes",
+    "category": "canned goods"
+  },
+  {
+    "itemName": "papaya",
+    "category": "fruits and veggies"
+  },
+  {
+    "itemName": "kirsch",
+    "category": "condiments and spices",
+    "notes": "Sub for cherry liquer"
+  },
+  {
+    "itemName": "chicken leg quarters",
+    "category": "meat",
+    "notes": "for weekend bbq"
+  }
+]
